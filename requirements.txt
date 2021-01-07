@@ -1,0 +1,7 @@
+requests
+PySocks
+requests-toolbelt
+urllib3
+websockets
+paramiko
+pysnmp
